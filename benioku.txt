@@ -1,0 +1,8 @@
+
+
+**
+//Youtube = Jkood'a Aittir! Çalınması Durumunda Telif Hakkı Kullanılacaktır.\\
+
+TOKEN .ENV KISMINDA TOKEN YAZAN YERİN KARŞISINA GİRİLECEK!
+
+SAHİP İD VE PREFİX = AYARLAR.JSONA GİRİLECEK!**
